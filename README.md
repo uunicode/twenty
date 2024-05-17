@@ -167,4 +167,7 @@ Here’s what you can look forward to:
 - Join our [Discord](https://discord.gg/cx5n4Jzs57)
 - [Contributions](https://github.com/twentyhq/twenty/contribute) are, of course, most welcome! 
 
+# Twenty CRM
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/USERNAME/twenty)
 
