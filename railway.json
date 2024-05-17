@@ -1,0 +1,15 @@
+{
+  "name": "Twenty CRM",
+  "services": [
+    {
+      "type": "postgres"
+    }
+  ],
+  "deploy": {
+    "production": {
+      "envs": {
+        "DATABASE_URL": "@postgres.DATABASE_URL"
+      }
+    }
+  }
+}
